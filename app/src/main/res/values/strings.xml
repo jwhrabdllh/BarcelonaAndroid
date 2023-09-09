@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FC Barcelona</string>
+
+    <string name="nama_pemain">Nama Pemain</string>
+    <string name="deskripsi_pemain">Deskripsi Pemain</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="text_description">Deskripsi Pemain</string>
+    <string name="player_description">Player Description</string>
+    <string name="overview">Isi Deskripsi</string>
+
+    <string name="my_name">Jawahiir Abdillah</string>
+    <string name="profile_email">jwhrabdllh10@gmail.com</string>
+    <string name="instagram">Instagram</string>
+    <string name="my_instagram">jwhrabdllh</string>
+    <string name="player_information">Informasi Pemain</string>
+    <string name="about_me">Profile</string>
+    <string name="title_information">Nama Lengkap \nTanggal Lahir \nTempat Lahir \nTinggi \nPosisi Bermain</string>
+    <string name="detail_information">Player Information</string>
+
+</resources>
